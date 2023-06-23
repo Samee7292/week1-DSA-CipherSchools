@@ -63,5 +63,7 @@ vector<int> firstAndLastOccurance(vector<int> &nums,int target){
 }
 
 int main{
+    int nums;
+    cin>>nums
 
 }
